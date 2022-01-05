@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Sébastien Van Vreckem
 
 ![otpexhaustv2's github stats](https://github-readme-stats.vercel.app/api?username=otpexhaustv2&show_icons=true&theme=dracula)
 

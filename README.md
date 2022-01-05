@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://vistr.dev/badge?repo=OtpExhaustv2.react-redux-template)
+
 <!--
 **OtpExhaustv2/OtpExhaustv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

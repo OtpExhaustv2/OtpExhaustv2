@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![azer](https://vistr.dev/badge?repo=OtpExhaustv2.react-redux-template)
+![otpexhaustv2's github stats](https://github-readme-stats.vercel.app/api?username=otpexhaustv2&show_icons=true&theme=dracula)
 
 <!--
 **OtpExhaustv2/OtpExhaustv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

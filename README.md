@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Sébastien Van Vreckem
 
-[![](https://img.shields.io/badge/-Sébastien%20Van%20Vreckem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s%C3%A9bastien-van-vreckem-full-stack-developer-undergraduate/)](https://www.linkedin.com/in/s%C3%A9bastien-van-vreckem-full-stack-developer-undergraduate/)
+[![](https://img.shields.io/badge/-Sébastien%20Van%20Vreckem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s%C3%A9bastien-van-vreckem-full-stack-developer-undergraduate/)](https://www.linkedin.com/in/s%C3%A9bastien-van-vreckem-full-stack-developer-undergraduate/){:target="_blank"}
 
 ![otpexhaustv2's github stats](https://github-readme-stats.vercel.app/api?username=otpexhaustv2&show_icons=true&theme=dracula)
 
